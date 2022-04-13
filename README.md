@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Anabel 💕
 - 👀 I’m interested in <💻> 🎸 💵 🌌 ⛺ 🎨 ⚽ 🍕 🍺 🐱 
 - 🌱 I’m currently learning ...programming!! 💻
-- 💞️ I’m looking to collaborate on any project or anything i'm interested in
+- 💞️ I’m looking to collaborate on any project or anything i'm interested in 📈
 - 📫 How to reach me  www.linkedin.com/in/rocioadelmoral 😊
 
 <!---
