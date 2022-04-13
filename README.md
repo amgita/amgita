@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Anabel 💕
-- 👀 I’m interested in ...
+- 👀 I’m interested in <💻> 🎸 💵 🌌 ⛺ 🎨 ⚽ 🍕 🍺 🐱 
 - 🌱 I’m currently learning ...programming!! 💻
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on any project or anything i'm interested in
+- 📫 How to reach me  www.linkedin.com/in/rocioadelmoral 😊
 
 <!---
 amgita/amgita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
